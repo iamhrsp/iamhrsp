@@ -1,4 +1,4 @@
-[![MasterHead](https://wallpapersmug.com/download/1366x768/c3c43f/matrix-code-numbers-green.jpg)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 <h1 align="center">Hi 👋, I am Haris</h1>
 <h3 align="center">Pursuing Electronics and Nanotechnology master's degree from Aalto University 🇫🇮</h3>
 
