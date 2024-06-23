@@ -1,4 +1,4 @@
-[![MasterHead](https://uploads-ssl.webflow.com/6213e37965cf962f3b7fdcd2/63b704a7bb4b0173b00ff72c_Anima%C3%A7%C3%A3o-Site-Builders_00000.gif)
+[![MasterHead]([https://uploads-ssl.webflow.com/6213e37965cf962f3b7fdcd2/63b704a7bb4b0173b00ff72c_Anima%C3%A7%C3%A3o-Site-Builders_00000.gif](https://mir-s3-cdn-cf.behance.net/project_modules/disp/31cb4530923483.56392f160a53e.gif))
 <h1 align="center">Hi 👋, I am Haris</h1>
 <h3 align="center">Pursuing Electronics and Nanotechnology master's degree from Aalto University 🇫🇮</h3>
 
