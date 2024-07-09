@@ -1,6 +1,7 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+[MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 <h1 align="center">Hi 👋, I am Haris Reyaz Sultanpuri</h1>
-<h3 align="center">Pursuing Electronics and Nanotechnology master's degree from Aalto University 🇫🇮</h3>
+<h1 align="center">Welcome to my GitHub profile! I am passionate about electronics with an interest in digital design and embedded systems.</h1>
+<h3 align="center"> I am currently pursuing Electronics and Nanotechnology master's degree from Aalto University 🇫🇮</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamhrsp&label=Profile%20views&color=0e75b6&style=flat" alt="iamhrsp" /> </p>
 
